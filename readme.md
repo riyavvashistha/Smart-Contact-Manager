@@ -1,3 +1,2 @@
-### Canvas Link:
-
-https://excalidraw.com/#json=SIuQrQnGQr9DGkCVc8BWD,JqVceoohF0UsTfllkzdRmw
+### Project Screenshots:
+![alt text](<PHOTO-2025-05-02-01-42-38 (1).jpg>)
